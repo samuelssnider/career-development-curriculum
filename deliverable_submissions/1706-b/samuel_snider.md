@@ -8,6 +8,17 @@ Fork this repo (the fork button is at the top righthand side of your screen), wh
 * Your First Name: Samuel 
 * Your Last Name: Snider
 
+## Mod 3 Deliverables:
+* Link to resume draft
+
+* Link to Trello Board
+
+* Link to Flower Exercise
+
+* Link to Turing Portfolio
+
+* Link to Action Plan
+
 ## Mod 2 Deliverables:
 * Link to gist documenting mentor outreach conducted using these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/cold_outreach_i_guidelines.md)
 https://gist.github.com/samuelssnider/20132326db47462369d3148f6552cbda
