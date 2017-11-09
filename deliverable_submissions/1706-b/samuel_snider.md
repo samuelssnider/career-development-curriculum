@@ -9,13 +9,16 @@ Fork this repo (the fork button is at the top righthand side of your screen), wh
 * Your Last Name: Snider
 
 ## Mod 3 Deliverables:
-* Link to resume draft
+* Link to resume draft:
+https://www.turing.io/alumni/samuel-snider
 
 * Link to Trello Board
+https://trello.com/b/z5FckPWz/job-search
 
 * Link to Flower Exercise
 
-* Link to Turing Portfolio
+* Link to Turing Portfolio:
+https://www.turing.io/alumni/samuel-snider
 
 * Link to Action Plan
 
