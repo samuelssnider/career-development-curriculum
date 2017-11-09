@@ -10,17 +10,18 @@ Fork this repo (the fork button is at the top righthand side of your screen), wh
 
 ## Mod 3 Deliverables:
 * Link to resume draft:
-https://www.turing.io/alumni/samuel-snider
+[Portfolio]https://www.turing.io/alumni/samuel-snider
 
 * Link to Trello Board
-https://trello.com/b/z5FckPWz/job-search
+[Trello]https://trello.com/b/z5FckPWz/job-search
 
-* Link to Flower Exercise
+* Link to Flower Exercise:
 
 * Link to Turing Portfolio:
-https://www.turing.io/alumni/samuel-snider
+[Portfolio]https://www.turing.io/alumni/samuel-snider
 
 * Link to Action Plan
+[Action Plan]https://gist.github.com/samuelssnider/63fbf21b7ebb9daef896225a3e743033
 
 ## Mod 2 Deliverables:
 * Link to gist documenting mentor outreach conducted using these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/cold_outreach_i_guidelines.md)
